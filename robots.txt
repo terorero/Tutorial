@@ -1,1 +1,1 @@
-Sitemap: https://terorero.github.io/tutorial//sitemap.xml
+Sitemap: https://terorero.github.io/Tutorial//sitemap.xml
