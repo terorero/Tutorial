@@ -1,10 +1,6 @@
 - name: Tutoriales
   link: /
-<<<<<<< HEAD
 - name: iVideos
-=======
-- name: Videos
->>>>>>> parent of 7440d3f... Delete inicial
   link: /videos/
 - name: FAQ
   link: /faq/
