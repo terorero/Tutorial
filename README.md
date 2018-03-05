@@ -1,6 +1,6 @@
 # Base
 
-Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
+Base de conocimiento template for Jekyll. Browse through a [live demo](https://github.com/terorero/Tutorial/).
 
 ![Base template screenshot](images/_screenshot.png)
 
